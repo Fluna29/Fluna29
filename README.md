@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@fluna29/30-nites-of-code)  
+  ![@fluna29 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=fluna29)
 <!--
 **Fluna29/Fluna29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
